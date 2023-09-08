@@ -3,3 +3,4 @@ https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-i
 for office
 
 1: git clone https://github.com/Yahyobek-12/Github-Tutorial.git
+2: git pull = officedagi filelarni olish uchun
